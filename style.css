@@ -17,3 +17,13 @@ body {
   padding: 0;
 }
 
+.n {
+font-size: 36px;
+}
+
+.p-icon {
+  width: 25%;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 25%;
+}
