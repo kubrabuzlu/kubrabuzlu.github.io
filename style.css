@@ -6,3 +6,17 @@
 table,tr,td{
   border: 1px solid;
 }
+
+body {
+  background-image: url("images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  width: 100%;
+  padding: 0;
+}
+
+.name {
+font-size: 36px;
+}
